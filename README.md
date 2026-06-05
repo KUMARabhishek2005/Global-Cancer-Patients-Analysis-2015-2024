@@ -77,9 +77,8 @@ SQL queries were used to analyze:
 ## Power BI Dashboard
 
 ### Dashboard Preview
-```markdown
-![Global Cancer Dashboard](dashborad page1.png)
-```
+![Dashboard Preview](dashborad%20page1.png)
+
 
 Example:
 
