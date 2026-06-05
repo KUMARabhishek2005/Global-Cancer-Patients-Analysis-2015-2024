@@ -119,11 +119,7 @@ Run the queries from `cancer_patient.sql`.
 ### Power BI
 Open `Global_cancer_patient_dashboard.pbix` in Power BI Desktop.
 
+## Author :- **Abhishek Kumar**
 
 
-## Author
-
-**Abhishek Kumar**
-
-LinkedIn:
 
